@@ -17,7 +17,7 @@
   "sideEffects": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/devdasx/OathConnect.git",
+    "url": "https://github.com/OathWallet/OathConnect.git",
     "directory": "packages/protocol"
   }
 }
